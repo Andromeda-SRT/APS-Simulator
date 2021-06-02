@@ -1,0 +1,10 @@
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\bin\Release\APS Simulator.exe.config
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\bin\Release\APS Simulator.exe
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\bin\Release\APS Simulator.pdb
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS Simulator.csprojAssemblyReference.cache
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS_Simulator.Form1.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS_Simulator.Form2.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS_Simulator.Properties.Resources.resources
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS Simulator.csproj.GenerateResource.cache
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS Simulator.exe
+C:\Users\Andromeda\Desktop\ЯГТУ\2 КУРС 20-21\4 семестр\ЛР и ПР\СУБД\LR7 (Проект)\APS Simulator\APS Simulator\obj\Release\APS Simulator.pdb
